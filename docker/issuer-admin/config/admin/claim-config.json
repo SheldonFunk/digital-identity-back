@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "name": "first_name",
+      "type": "text",
+      "title": "First Name:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "middle_name",
+      "type": "text",
+      "title": "Middle Name:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "last_name",
+      "type": "text",
+      "title": "Last Name:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "other_name",
+      "type": "text",
+      "title": "Other Name:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "email",
+      "type": "text",
+      "inputType": "email",
+      "title": "Email:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "home_address",
+      "type": "text",
+      "title": "Home Address:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "postal_code",
+      "type": "text",
+      "title": "Postal Code:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "city",
+      "type": "text",
+      "title": "City:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "province",
+      "type": "text",
+      "title": "Province:",
+      "placeHolder": "",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    },
+    {
+      "name": "unit",
+      "type": "text",
+      "title": "Unit:",
+      "placeHolder": "",
+      "defaultValue": "Canada",
+      "isRequired": true,
+      "requiredErrorText": "Required Field"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "schema_name": "mbcc.gov",
+        "schema_version": "1.0.4",
+        "attributes": [
+            "sin",
+            "email",
+            "first_name",
+            "birth_country",
+            "dd",
+            "class",
+            "health_principal_name",
+            "date_of_birth",
+            "tier",
+            "eye_color",
+            "birth_city",
+            "bank_transit_code",
+            "sex",
+            "other_name",
+            "timestamp",
+            "license_number",
+            "middle_name",
+            "health_coverage_start_date",
+            "unit",
+            "expiration_date",
+            "province",
+            "phone_number",
+            "home_address",
+            "city",
+            "bank_institution_number",
+            "bank_account_number",
+            "health_card_number",
+            "application_number",
+            "postal_code",
+            "last_name",
+            "height",
+            "employment_employer_name",
+            "employment_role",
+            "employment_start_date"
+        ]
+    }
+]
